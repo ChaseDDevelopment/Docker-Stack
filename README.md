@@ -1,3 +1,9 @@
+- [Docker-Stack](#docker-stack)
+  - [I'm starting with posting my traefik configuration, and will slowly add more services in.](#im-starting-with-posting-my-traefik-configuration-and-will-slowly-add-more-services-in)
+    - [Requirements](#requirements)
+    - [Disclaimer](#disclaimer)
+    - [Guide](#guide)
+
 # Docker-Stack
 This is my Docker Stack on my Home Server
 
