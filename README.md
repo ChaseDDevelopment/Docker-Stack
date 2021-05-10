@@ -5,6 +5,7 @@ This is a guide on how to setup a docker stack on a single linux server and will
   - [Requirements](#requirements)
   - [Disclaimer](#disclaimer)
   - [Guide](#guide)
+    - [1. Install Docker on your machine.](#1-install-docker-on-your-machine)
 
 ## Requirements
 
@@ -16,7 +17,7 @@ This is a guide on how to setup a docker stack on a single linux server and will
 
 ## Guide
 
-  1. Install [Docker](https://docs.docker.com/engine/install/) on your machine.
+  ### 1. Install [Docker](https://docs.docker.com/engine/install/) on your machine.
 
     1. `sudo apt-get update`
 
